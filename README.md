@@ -90,3 +90,17 @@ Dim_SLA        Dim_Branch        Dim_Date        Dim_OperationsStaff
 4. Officer-level performance blind spots
 5. Each problem is backed by measures + visuals + drill-down capability.
 ```
+
+# 📊 Dashboard Design (Module 1)
+```
+Executive SLA cockpit
+Branch SLA heatmap
+Officer performance distribution
+Stage-wise bottleneck analyzer
+Exception impact analysis
+Built with Power BI best practices:
+KPI cards with thresholds
+Cross-filtering
+Drill-through
+Micro-SLA visibility
+```
