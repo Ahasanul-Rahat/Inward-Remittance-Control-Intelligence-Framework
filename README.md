@@ -81,3 +81,12 @@ Dim_SLA        Dim_Branch        Dim_Date        Dim_OperationsStaff
 | Transactions per Officer | Bottleneck Stage Identification |
 
 ```
+
+# 🧠 Business Problems Solved
+```
+1. SLA breaches without transaction volume increase
+2. Chronic underperformance of specific branches
+3. Exception-driven hidden delays
+4. Officer-level performance blind spots
+5. Each problem is backed by measures + visuals + drill-down capability.
+```
