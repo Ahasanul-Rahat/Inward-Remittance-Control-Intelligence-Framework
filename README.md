@@ -71,31 +71,13 @@ Dim_SLA        Dim_Branch        Dim_Date        Dim_OperationsStaff
 # ⏱️ Key Metrics & KPIs - SLA & TAT
 
 ```
-SLA Adherence %
+| **Metric**               | **Metric**                      |
+| ------------------------ | ------------------------------- |
+| SLA Adherence %          | Exception Rate %                |
+| SLA Breach Count         | Clean vs Exception TAT          |
+| Average TAT (Hours)      | Transactions per Officer        |
+| P95 TAT                  | Branch-wise SLA %               |
+| SLA Target vs Actual     | Avg Stage Duration              |
+| Transactions per Officer | Bottleneck Stage Identification |
 
-SLA Breach Count
-
-Average TAT (Hours)
-
-P95 TAT
-
-SLA Target vs Actual
-
-Operations
-
-Exception Rate %
-
-Clean vs Exception TAT
-
-Transactions per Officer
-
-Branch-wise SLA %
-
-Process Intelligence
-
-Avg Stage Duration
-
-Stage Contribution %
-
-Bottleneck Stage Identification
 ```
