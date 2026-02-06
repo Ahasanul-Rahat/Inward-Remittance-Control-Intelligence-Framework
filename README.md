@@ -1,7 +1,7 @@
 # Inward-Remittance-Control-Intelligence-Framework
 Module 1 — Operations SLA &amp; TAT Analytics (Power BI)
 
-# **📊 Project Overview
+# 📊 Project Overview
 
 * This project simulates a real-world banking operations analytics framework focused on Inward Remittance processing, inspired by global bank operations (HSBC-style).
 
