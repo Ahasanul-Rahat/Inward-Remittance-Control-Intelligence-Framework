@@ -21,6 +21,7 @@ Module 1 — Operations SLA &amp; TAT Analytics (Power BI)
 * Enable data-driven operational control, not just reporting
 
 🧱 Data Architecture
+
 🔹 Fact Tables
 
 * Fact_InwardRemittance (~20,000 rows)
