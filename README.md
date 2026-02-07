@@ -104,3 +104,10 @@ Cross-filtering
 Drill-through
 Micro-SLA visibility
 ```
+
+# 📊 Report (Module 1)
+```
+Report–1: Executive SLA Performance
+<img width="1919" height="1019" alt="Screenshot 2026-02-07 203335" src="https://github.com/user-attachments/assets/58a8ec75-2260-4bbf-a532-b88135c7307f" />
+```
+
