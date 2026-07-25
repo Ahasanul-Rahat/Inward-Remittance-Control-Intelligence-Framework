@@ -110,5 +110,6 @@ Micro-SLA visibility
 ```
 Report–1: Executive SLA Performance
 ```
-<img width="1919" height="1019" alt="Screenshot 2026-02-07 203335" src="https://github.com/user-attachments/assets/58a8ec75-2260-4bbf-a532-b88135c7307f" />
+<img width="1920" height="1020" alt="Screenshot 2026-07-26 000411" src="https://github.com/user-attachments/assets/6b4067e4-db66-43e1-891e-df7f426bba6b" />
+
 
